@@ -1,3 +1,7 @@
+# Solutions
+
+Zhaoyue's solution to the Triton Puzzles are in file `Triton_Puzzles_Solution_Zhaoyue.ipynb`
+
 # Triton Puzzles
 
 w/ Tejas Ramesh and [Keren Zhou](https://www.jokeren.tech/) based on [Triton-Viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
