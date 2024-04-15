@@ -1,6 +1,6 @@
 # Solutions
 
-Zhaoyue's solution to the Triton Puzzles are in file `Triton_Puzzles_Solution_Zhaoyue.ipynb`
+Zhaoyue's solution to the Triton Puzzles are in file [Triton_Puzzles_Solution_Zhaoyue.ipynb](https://github.com/ZhaoyueCheng/Triton-Puzzles/blob/main/Triton_Puzzles_Solution_Zhaoyue.ipynb)
 
 # Triton Puzzles
 
